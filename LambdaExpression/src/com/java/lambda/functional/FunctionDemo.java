@@ -14,7 +14,7 @@ class FunctionImpl implements Function<String, Integer>{
     }
 }
 
-public class FunctinDemo {
+public class FunctionDemo {
     public static void main(String[] args) {
        /* Function<String, Integer> function = new FunctionImpl();
         int res = function.apply("Sharan");
