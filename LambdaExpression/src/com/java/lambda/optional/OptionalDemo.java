@@ -17,7 +17,7 @@ public class OptionalDemo {
         Optional<Object> emptyOptional = Optional.empty();
         System.out.println(emptyOptional);
 
-        // using of (this throws exception if email is null)
+        // using of, (this method throws exception if email is null)
         Optional<String> emailOptional = Optional.of(email);
         System.out.println(emailOptional);
 
@@ -81,7 +81,7 @@ public class OptionalDemo {
         optionalStr.filter(res -> res.contains("abc"))
                 .map(String::trim)
                 .ifPresent((res) -> System.out.println(res));
-        
+
     }
 
 }
