@@ -26,7 +26,7 @@ public class LambdaParameters {
            //int res = add.addition(10,20);
            //System.out.println(res);
 
-        //if there are multiple statements 
+        //if there are multiple statements
         Addable add = (a,b) -> {
             int c = a+b;
             return c;

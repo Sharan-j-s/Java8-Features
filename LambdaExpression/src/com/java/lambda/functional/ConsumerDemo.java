@@ -1,4 +1,4 @@
-package com.java.lambda;
+package com.java.lambda.functional;
 
 // consumer interface takes input but doesn't return anything
 

@@ -1,4 +1,4 @@
-package com.java.lambda;
+package com.java.lambda.functional;
 
 import java.time.LocalDateTime;
 import java.util.function.Supplier;

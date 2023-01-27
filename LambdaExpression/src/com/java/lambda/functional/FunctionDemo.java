@@ -1,4 +1,4 @@
-package com.java.lambda;
+package com.java.lambda.functional;
 
 // we will see some predefined functional interfaces with example
 
