@@ -2,6 +2,6 @@ This repository contains some coding examples related to Java 8 features (Lambda
 
 Video Link :- https://www.youtube.com/watch?v=UfJ0lCH7FMM
 
-Notes Link :- https://www.javaguides.net/p/java-8.html
+Blog Link :- https://www.javaguides.net/p/java-8.html
 
 Connect with me :- [Linkedin](https://www.linkedin.com/in/sharanjs)
