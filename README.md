@@ -1,4 +1,4 @@
-This repository contains some coding examples related to Java 8 features (Lambda expression, Stream API, Functional Interfaces. etc).
+This repository contains some coding examples related to Java 8 features (Lambda expression, Stream API, Functional Interfaces. etc). Please check the video and notes link attached. 
 
 Video Link :- https://www.youtube.com/watch?v=UfJ0lCH7FMM
 
